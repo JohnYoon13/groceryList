@@ -1,7 +1,6 @@
 GROCERY LIST application that has the ability to add, remove, and display items and their price/quantities:
-==========
+-------
 STEPS:
-------
 - Show menu with four options: adding an item to the list, removing an item from the list, displaying the list, and exiting the list.
 - Prompt the user to input one of the four options.
 - If the user chooses the first option, add a new item to the list:
